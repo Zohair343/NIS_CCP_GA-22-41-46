@@ -1,0 +1,2 @@
+length,trials,mean_IC,freq_exact_rate,freq_mean_accuracy,freq_a_found_rate,freq_mean_ms,known_letters,kpa_exact_rate,kpa_mean_accuracy,kpa_mean_ms
+26,5,0.04492,0,0.0538,0,50.7715,13,0.4,0.4,4.91632
