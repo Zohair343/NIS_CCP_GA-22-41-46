@@ -103,27 +103,3 @@ Timings, graphs, limitations and interpretation: see `report/project_report.md` 
 ## Limitations
 
 Results come from one English corpus, keys of 10–14 letters, a known fragment at position 0, and 50 trials per length (≈ ±14 points margin). See report §21.
-
-## Suggested GitHub description
-
-> Educational two-stage classical cipher (Affine → Vigenère) in pure Python with frequency-analysis and known-plaintext attack simulations, experiments, and a full report. CT-486 project. Not secure.
-
-Topics: `cryptography` `classical-ciphers` `cryptanalysis` `vigenere` `affine-cipher` `python` `education`
-
-## Uploading to GitHub
-
-1. Create an empty repository named `Custom-Classical-Cipher` on github.com (no README/licence).
-2. In the project folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Affine-Vigenere cipher, attacks, experiments, report"
-git branch -M main
-git remote add origin https://github.com/<your-username>/Custom-Classical-Cipher.git
-git push -u origin main
-```
-
-## Licence / academic integrity
-
-Written for a university assignment. If you submit it, understand and be able to explain every part (see `report/code_walkthrough.md`) and add your own name to the report cover page.
